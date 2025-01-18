@@ -10,14 +10,6 @@ The repository is organized as follows:
 - **`Assignments/`**: Includes solutions to assignments.
 - **`Resources/`**: Additional materials, references, and helpful resources.
 
-## Goals
-
-The purpose of this repository is to:
-
-1. Document the learning journey in Quarter 1 of the PIAIC program.
-2. Showcase projects demonstrating foundational knowledge of Artificial Intelligence and related technologies.
-3. Share resources and insights with others in the learning community.
-
 ## Technologies Used
 
 The projects in this repository utilize the following technologies and tools:
