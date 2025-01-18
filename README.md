@@ -6,7 +6,7 @@ Welcome to the **Agentic AI - PIAIC Projects (Q1)** repository! This repository 
 
 The repository is organized as follows:
 
-- - **`Assignment_Projects/`**: Contains all assignments and projects completed as part of Quarter 1.
+- **`Assignment_Projects/`**: Contains all assignments and projects completed as part of Quarter 1.
 - **`Resources/`**: Additional materials, references, and helpful resources.
 
 ## Technologies Used
