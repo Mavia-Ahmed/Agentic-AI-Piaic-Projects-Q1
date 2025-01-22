@@ -7,15 +7,13 @@ Welcome to the **Agentic AI - PIAIC Projects (Q1)** repository! This repository 
 The repository is organized as follows:
 
 - **`Assignment_Projects/`**: Contains all assignments and projects completed as part of Quarter 1.
-- **`Resources/`**: Additional materials, references, and helpful resources.
-
+  
 ## Technologies Used
 
 The projects in this repository utilize the following technologies and tools:
 
 - **Python**: Programming language for AI and data science.
 - **Jupyter Notebook**: For interactive development and documentation.
-- **Libraries**: Pandas, NumPy, Matplotlib, and others as needed.
 
 ## How to Use This Repository
 
